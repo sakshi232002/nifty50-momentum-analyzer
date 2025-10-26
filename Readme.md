@@ -61,11 +61,7 @@ results = analyzer.analyze_all_stocks()
 4. Push to the branch
 5. Create a pull request
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Author
-[Your Name]
 
 ## Acknowledgments
 - NSE India for stock data
